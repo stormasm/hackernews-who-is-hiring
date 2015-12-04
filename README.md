@@ -9,4 +9,4 @@ Enjoy this archive !
 This is a
 [Hackernews]
 (https://news.ycombinator.com/)
-who is hiring link archive.
+who is hiring archive.
