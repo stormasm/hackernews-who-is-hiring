@@ -1,12 +1,12 @@
 ##### Links to each month's posts on Hackernews
 
-**2016** links are templates with no data,
-as the year progresses each month I will fill
-in the link at or around the beginning of each month.
-
-Enjoy this archive !
-
 This is a
 [Hackernews]
 (https://news.ycombinator.com/)
 who is hiring archive.
+
+It goes back to January 2014 and each month there after.
+
+Note the 2017 links will be populated as the year progresses.
+
+Enjoy this archive !
